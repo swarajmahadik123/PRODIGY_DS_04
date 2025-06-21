@@ -49,10 +49,10 @@ This project focuses on mining public sentiment from tweets. Using a labeled dat
   ![Top Entities](output2.png)
 
 - **WordClouds by Sentiment**  
-  ![Positive](wordcloud_positive.png)  
-  ![Negative](wordcloud_negative.png)  
-  ![Neutral](wordcloud_neutral.png)  
-  ![Irrelevant](wordcloud_irrelevant.png)
+  ![Positive](wordcloud_Positive.png)  
+  ![Negative](wordcloud_Negative.png)  
+  ![Neutral](wordcloud_Neutral.png)  
+  ![Irrelevant](wordcloud_Irrelevant.png)
 
 ---
 
